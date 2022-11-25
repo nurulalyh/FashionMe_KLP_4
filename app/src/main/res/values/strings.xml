@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">FashionMe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_baju">Nama Pahlawan</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Bomber Jacket</item>
+        <item>Caftan</item>
+        <item>Camel Coats</item>
+        <item>Casual Pants Black</item>
+        <item>Dress</item>
+        <item>Long Cardigan</item>
+        <item>Pelargonie</item>
+        <item>Short Dress</item>
+        <item>Tennis Jacket</item>
+        <item>Vintage Fleece Hodie</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>RP.20,000,000</item>
+        <item>RP.500,000 </item>
+        <item>RP.1,000,000</item>
+        <item>RP.5,000,000</item>
+        <item>RP.10,000,OOO</item>
+        <item>RP.2,000,000</item>
+        <item>RP.200,999</item>
+        <item>RP.7,000,000</item>
+        <item>RP.100,000</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/bomberjacket</item>
+        <item>@drawable/caftan</item>
+        <item>@drawable/camelcoats</item>
+        <item>@drawable/casualpantsblack</item>
+        <item>@drawable/dress</item>
+        <item>@drawable/longcardigan</item>
+        <item>@drawable/pelargonie</item>
+        <item>@drawable/shortdress</item>
+        <item>@drawable/tennisjacket</item>
+        <item>@drawable/vintagefleecehodie</item>
+    </array>
+
+    <string-array name="man_merk">
+        <item>Russell Kemeja</item>
+        <item>Breakside Hoodie Mythology</item>
+        <item>DEATHLESS KAOS</item>
+        <item>Reclays Jeans Krez</item>
+        <item>Topi Dad Hat</item>
+        <item>Fairgoods Backpack</item>
+        <item>Redamancy</item>
+        <item>Larocking</item>
+        <item>Mcvois Jaket</item>
+        <item>Sandal Slide Maximall MT</item>
+    </string-array>
+
+    <string-array name="man_harga">
+        <item>300.000</item>
+        <item>500.000</item>
+        <item>200.000</item>
+        <item>>1.000.000</item>
+        <item>150.000.</item>
+        <item>700.000</item>
+        <item>350.000</item>
+        <item>250.000</item>
+        <item>>900.000</item>
+        <item>5.000.000</item>
+    </string-array>
+
+    <array name="man_img">
+        <item>@drawable/man1</item>
+        <item>@drawable/man2</item>
+        <item>@drawable/man3</item>
+        <item>@drawable/man4</item>
+        <item>@drawable/man5</item>
+        <item>@drawable/man6</item>
+        <item>@drawable/man7</item>
+        <item>@drawable/man8</item>
+        <item>@drawable/man9</item>
+        <item>@drawable/man10</item>
+    </array>
+</resources>
